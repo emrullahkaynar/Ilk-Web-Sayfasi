@@ -1,0 +1,1 @@
+## Patika ve Kodluyoruz kapsamında ilk web sayfası.
